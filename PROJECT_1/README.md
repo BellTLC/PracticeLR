@@ -1,9 +1,11 @@
 Data Science Projects (With practical examples ML, BT)
+
 It is important to advance step by step and when you acquire knowledge to be able to share with practical and simple examples. Learn, apply what you learn, continue advancing and delving deeper into the world of data sciences.
 
 what we will do
     -Exploring and Cleaning the Data
-    -
+    -Calculate 
+    -Visualization
 Hardware requirements
 We recommend the following hardware configuration:
     -Processor: Intel Core i5 or equivalent
